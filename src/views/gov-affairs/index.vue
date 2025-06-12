@@ -79,10 +79,7 @@ import {
   View,
   Edit,
   Delete,
-  Document,
-  House,
-  User,
-  Money
+  Document
 } from '@element-plus/icons-vue'
 
 // 服务分类
